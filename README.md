@@ -1,5 +1,5 @@
 ### IPOP-A
-[IPOP-A](https://github.com/AlvaroGomez23/IPOP/blob/main/IPOP-A.docx)
+[IPOP-A](https://github.com/AlvaroGomez23/IPOP/blob/main/IPOP-A.pdf)
 [IPOP-B](https://github.com/AlvaroGomez23/IPOP/blob/main/IPOP-B.docx)
 
 ### CV CAT
